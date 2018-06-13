@@ -3,7 +3,7 @@ solution: wiqilogin.sln
 deploy:
   provider: pages
   skip-cleanup: true
-  github-token: Mg_3at-lc5Fs6ks8XZj4gw  # Set in the settings page of your repository, as a secure variable
+  github-token: j-JbYH6DovtnstkyrQkj0g  # Set in the settings page of your repository, as a secure variable
   keep-history: true
   on:
     branch: master
