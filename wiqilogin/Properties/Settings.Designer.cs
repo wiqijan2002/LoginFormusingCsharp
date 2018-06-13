@@ -32,5 +32,15 @@ namespace wiqilogin.Properties {
                 return ((string)(this["loginConnectionString"]));
             }
         }
+        
+        [global::System.Configuration.ApplicationScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
+        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=WAQASALI\\WIQI;Initial Catalog=login;Integrated Security=True")]
+        public string loginConnectionString1 {
+            get {
+                return ((string)(this["loginConnectionString1"]));
+            }
+        }
     }
 }

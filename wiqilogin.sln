@@ -5,8 +5,6 @@ VisualStudioVersion = 15.0.27703.2018
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wiqilogin", "wiqilogin\wiqilogin.csproj", "{A16DF538-0524-49C1-8650-34AE246B5CCC}"
 EndProject
-Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Hellowiqi", "Hellowiqi\Hellowiqi.vdproj", "{DB0890A5-188F-4CA8-9FE7-F70D0C3ABF59}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,8 +15,6 @@ Global
 		{A16DF538-0524-49C1-8650-34AE246B5CCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A16DF538-0524-49C1-8650-34AE246B5CCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A16DF538-0524-49C1-8650-34AE246B5CCC}.Release|Any CPU.Build.0 = Release|Any CPU
-		{DB0890A5-188F-4CA8-9FE7-F70D0C3ABF59}.Debug|Any CPU.ActiveCfg = Debug
-		{DB0890A5-188F-4CA8-9FE7-F70D0C3ABF59}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

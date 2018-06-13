@@ -27,7 +27,7 @@ namespace wiqilogin
         {
             if (textBox1.Text != " " & textBox2.Text != " ")
             {
-                SqlConnection conn = new SqlConnection(@"Data Source=WAQASALI;Initial Catalog=login;Integrated Security=True");
+                SqlConnection conn = new SqlConnection(@"Data Source=WAQASALI\WIQI;Initial Catalog=login;Integrated Security=True");
                 SqlDataAdapter sda = new SqlDataAdapter("select count(*) from Login where Username ='" + textBox1.Text + "' and Password='" + textBox2.Text + "'", conn);
                 DataTable dt = new DataTable();
                 sda.Fill(dt);

@@ -32,7 +32,7 @@ namespace wiqilogin
             }
             else
             {
-                SqlConnection sc = new SqlConnection(@"Data Source = WAQASALI; Initial Catalog = login; Integrated Security = True");
+                SqlConnection sc = new SqlConnection(@"Data Source=WAQASALI\WIQI;Initial Catalog=login;Integrated Security=True");
                 string querry = "select * from Login Where Username ='"+textBox2.Text+ "'";
                 SqlDataAdapter sda = new SqlDataAdapter(querry, sc);
                 DataTable dt = new DataTable();
@@ -46,7 +46,7 @@ namespace wiqilogin
                 {
                     string connetionString = null;
                     string sql = null;
-                    connetionString = "Data Source=WAQASALI;Initial Catalog=login;Integrated Security=True";
+                    connetionString = "Data Source=WAQASALI\\WIQI;Initial Catalog=login;Integrated Security=True";
                     using (SqlConnection cnn = new SqlConnection(connetionString))
                     {
                         sql = "insert into Login ( [Name], [Username], [Password]) values(@Name,@Username,@Password)";

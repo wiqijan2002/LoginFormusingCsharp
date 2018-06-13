@@ -23,3 +23,16 @@ C:\Users\waqas\source\repos\another\LoginFormusingCsharp\wiqilogin\bin\Debug\wiq
 C:\Users\waqas\source\repos\another\LoginFormusingCsharp\wiqilogin\bin\Debug\wiqilogin.pdb
 C:\Users\waqas\source\repos\another\LoginFormusingCsharp\wiqilogin\obj\Debug\wiqilogin.exe
 C:\Users\waqas\source\repos\another\LoginFormusingCsharp\wiqilogin\obj\Debug\wiqilogin.pdb
+G:\LoginFormusingCsharp\wiqilogin\bin\Debug\wiqilogin.exe.config
+G:\LoginFormusingCsharp\wiqilogin\bin\Debug\wiqilogin.exe
+G:\LoginFormusingCsharp\wiqilogin\bin\Debug\wiqilogin.pdb
+G:\LoginFormusingCsharp\wiqilogin\obj\Debug\wiqilogin.csprojAssemblyReference.cache
+G:\LoginFormusingCsharp\wiqilogin\obj\Debug\wiqilogin.createaccount.resources
+G:\LoginFormusingCsharp\wiqilogin\obj\Debug\wiqilogin.Displayform.resources
+G:\LoginFormusingCsharp\wiqilogin\obj\Debug\wiqilogin.Form1.resources
+G:\LoginFormusingCsharp\wiqilogin\obj\Debug\wiqilogin.Properties.Resources.resources
+G:\LoginFormusingCsharp\wiqilogin\obj\Debug\wiqilogin.signin.resources
+G:\LoginFormusingCsharp\wiqilogin\obj\Debug\wiqilogin.csproj.GenerateResource.cache
+G:\LoginFormusingCsharp\wiqilogin\obj\Debug\wiqilogin.csproj.CoreCompileInputs.cache
+G:\LoginFormusingCsharp\wiqilogin\obj\Debug\wiqilogin.exe
+G:\LoginFormusingCsharp\wiqilogin\obj\Debug\wiqilogin.pdb

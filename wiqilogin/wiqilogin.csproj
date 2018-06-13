@@ -73,6 +73,11 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>loginDataSet1.xsd</DependentUpon>
     </Compile>
+    <Compile Include="loginDataSet2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>loginDataSet2.xsd</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="signin.cs">
@@ -123,6 +128,17 @@
     </None>
     <None Include="loginDataSet1.xss">
       <DependentUpon>loginDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="loginDataSet2.xsc">
+      <DependentUpon>loginDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="loginDataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>loginDataSet2.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="loginDataSet2.xss">
+      <DependentUpon>loginDataSet2.xsd</DependentUpon>
     </None>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
